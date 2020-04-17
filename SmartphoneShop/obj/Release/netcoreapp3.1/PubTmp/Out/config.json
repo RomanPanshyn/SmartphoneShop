@@ -1,0 +1,20 @@
+{
+  "Colors": {
+    "Favorite": "blue"
+  },
+  "ConnectionStrings": {
+    "SmartphoneConnectionString": "Server=tcp:romanpanshyn.database.windows.net,1433;Initial Catalog=SmartphoneShop;Persist Security Info=False;User ID=roman;Password=V54N8htd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "a;lkjasdf;lkajsd;flkjas ;dflkja sd",
+    "Issuer": "http://localhost:8888",
+    "Audience": "users"
+  }
+
+}

@@ -1,0 +1,22 @@
+﻿.product-info img {
+    height: 200px;
+}
+
+.product-info .product-name {
+    font-size: large;
+    font-weight: bold;
+}
+
+.card {
+    display: block;
+    margin-top: 5px;
+}
+
+.card img {
+    margin-left: 50px;
+}
+
+.card button {
+    width: 200px;
+    margin-left: 50px;
+}
